@@ -1,0 +1,1 @@
+mysqldump -uroot  -p bdsupermercado) c:\xampp\htdocs\mvcej3php\bk_bdsupermercado.sql
